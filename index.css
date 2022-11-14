@@ -1,0 +1,10 @@
+body{
+    /* background-color: black; */
+    text-align: center;
+}
+#input-section{
+    display: flex;
+    margin:auto;
+    margin-left:15%
+}
+
